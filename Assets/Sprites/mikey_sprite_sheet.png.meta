@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 6b33abf876bf2074f92f68bc43c42dac
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mikey_sprite_sheet_0
+    21300002: mikey_sprite_sheet_1
+    21300004: mikey_sprite_sheet_2
+    21300006: mikey_sprite_sheet_3
+    21300008: mikey_sprite_sheet_4
+    21300010: mikey_sprite_sheet_5
+    21300012: mikey_sprite_sheet_6
+    21300014: mikey_sprite_sheet_7
+    21300016: mikey_sprite_sheet_8
+    21300018: mikey_sprite_sheet_9
+    21300020: mikey_sprite_sheet_10
+    21300022: mikey_sprite_sheet_11
+    21300024: mikey_sprite_sheet_12
+    21300026: mikey_sprite_sheet_13
+    21300028: mikey_sprite_sheet_14
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 21
+        width: 90
+        height: 185
+      alignment: 9
+      pivot: {x: 0.61559016, y: 0.48935613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bf8a3c6e8b7db4e9c6ea5fe90a443a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 21
+        width: 92
+        height: 185
+      alignment: 9
+      pivot: {x: 0.6326427, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c668d01fbec99a34280d74646ff5c886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 21
+        width: 128
+        height: 185
+      alignment: 9
+      pivot: {x: 0.4448049, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975d92d9ea381d14b95266c2830aadde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 20
+        width: 101
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5508725, y: 0.49654692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f608b072bc906b4f9de89e0dc3fdcdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 19
+        width: 99
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5519002, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49cb18435c1dbe49bd2d4dd6665fdde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 21
+        width: 106
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5363551, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52f186bb821cc044aec913f2fd316a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 35
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af51701548475c40a8c40dc7df708d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 21
+        width: 126
+        height: 185
+      alignment: 9
+      pivot: {x: 0.44902596, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f93d3a61adc4f41b027bc57a49afc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 21
+        width: 106
+        height: 185
+      alignment: 9
+      pivot: {x: 0.51211834, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9acc598162f6a4a961d52efeb5ec15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42eabad4f4b5ac4d98fc195fe676697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a48c5fd01c4fd48b342decf3546d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 24
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6322ebcc599fe3444a66af205bb32782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 11
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1753aaff2d3874d87a1c36f5f0def8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38788d0a53868346bc3c9dbf4a9d641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mikey_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fce37f34485af9479ae178006c13639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f41773d3224c8fc44a34f4b32bf6bf49
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
