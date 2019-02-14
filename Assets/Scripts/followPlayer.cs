@@ -18,17 +18,19 @@ public class followPlayer : MonoBehaviour
     {
         GameObject player = GameObject.FindGameObjectWithTag("Player");
 
-        if (player !=null && Vector3.Distance(player.transform.position, transform.position) < 5.0f)
+        if (player !=null && Vector3.Distance(player.transform.position, transform.position) < 10.0f)
         {
-            if (player.transform.position.x > transform.position.x)
-            {
-                rb.velocity = new Vector2(1.0f, rb.velocity.y);
-                sprite.transform.localScale = new Vector2(Mathf.Abs(sprite.transform.localScale.x), Mathf.Abs(sprite.transform.localScale.y));
-            }
-            else if (player.transform.position.x + 0.2f < transform.position.x)
-            {
-                rb.velocity = new Vector2(-1.0f, rb.velocity.y);
-                sprite.transform.localScale = new Vector2(-Mathf.Abs(sprite.transform.localScale.x), Mathf.Abs(sprite.transform.localScale.y));
+            if(Piano.nextFollow < Time.time){
+                if (player.transform.position.x > transform.position.x)
+                {
+                    rb.velocity = new Vector2(1.0f, rb.velocity.y);
+                    sprite.transform.localScale = new Vector2(Mathf.Abs(sprite.transform.localScale.x), Mathf.Abs(sprite.transform.localScale.y));
+                }
+                else if (player.transform.position.x + 0.2f < transform.position.x)
+                {
+                    rb.velocity = new Vector2(-1.0f, rb.velocity.y);
+                    sprite.transform.localScale = new Vector2(-Mathf.Abs(sprite.transform.localScale.x), Mathf.Abs(sprite.transform.localScale.y));
+                }
             }
         }
     }

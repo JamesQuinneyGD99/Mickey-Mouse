@@ -55,9 +55,12 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\bat.cs" />
      <Compile Include="Assets\Scripts\bat_spawner.cs" />
+     <Compile Include="Assets\Scripts\door_opener.cs" />
      <Compile Include="Assets\Scripts\enemy.cs" />
      <Compile Include="Assets\Scripts\enemy_touch_trigger.cs" />
      <Compile Include="Assets\Scripts\followPlayer.cs" />
+     <Compile Include="Assets\Scripts\hint.cs" />
+     <Compile Include="Assets\Scripts\Piano.cs" />
      <Compile Include="Assets\Scripts\player.cs" />
      <Compile Include="Assets\Scripts\player_floor_sensor.cs" />
      <Compile Include="Assets\Scripts\point_add.cs" />
@@ -65,6 +68,7 @@
      <Compile Include="Assets\Scripts\spider.cs" />
      <Compile Include="Assets\Scripts\spider_web.cs" />
      <Compile Include="Assets\Scripts\stair_trigger_flicker.cs" />
+     <Compile Include="Assets\Scripts\triggerHint.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>D:/Unity/Projects/Mickey Mouse/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
